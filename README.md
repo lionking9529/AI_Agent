@@ -46,6 +46,6 @@
 	- [Packages 설치](./Python/pip.md)
 
 	- [Jupyter Notebook 설치 및 사용법](./Jupyter/README.md)
-	
+
 - Exercise
-	- [Python 기초](./Python/Python_tutorial.pdf)
+	- [Python 기초](./Python/Python_tutorial.ipynb)
