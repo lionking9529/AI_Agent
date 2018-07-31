@@ -3,10 +3,22 @@
 - July, 2018 ~ August, 2018
 - Big Data X Campus in [**Dongguk Univ.**](http://www.dongguk.edu/mbs/kr/index.jsp)
 
-## Getting Started
+# Day 2
 
-- Checkout to [**day1**](https://github.com/spb829/AI_Agent/tree/day1)
+- [Search](./Search.pdf)
+- [Search Exercise Overview](./Search_Exercise.pdf)
+	- [Solution](./Search_Solution.pdf)
 
-```
-git checkout day1
-```
+# Exercise
+
+## Search
+
+- Exercise
+	- [DFS: Depth First Search](./Search/DFS.md)
+	- [BFS: Breadth First Search](./Search/BFS.md)
+	- [Best-First Search](./Search/Best_First_Search.md)
+	- [A* Search](./Search/A_Star_Search.md)
+
+- Reference
+	- Russell Chap. 3, 4, 5
+	- Luger Chap. 3
