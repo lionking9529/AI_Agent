@@ -7,7 +7,6 @@
 
 - [Search](./Search.pdf)
 - [Search Exercise Overview](./Search_Exercise.pdf)
-	- [Solution](./Search_Solution.pdf)
 
 # Exercise
 

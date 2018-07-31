@@ -22,7 +22,3 @@ A-Star Search (**에이스타 탐색**)
 
 - [A_Star_Search.ipynb](./A_Star_Search.ipynb)
 - [A_Star_Search.html](./A_Star_Search.html)
-
-## Solution
-
-- [Solution](./Solutions/A_Star_Search.ipynb)

@@ -26,7 +26,3 @@
 
 - [Breadth_First_Search.ipynb](./Breadth_First_Search.ipynb)
 - [Breadth_First_Search.html](./Breadth_First_Search.html)
-
-## Solution
-
-- [Solution](./Solutions/Breadth_First_Search.ipynb)

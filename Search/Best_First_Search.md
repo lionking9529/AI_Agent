@@ -22,7 +22,3 @@
 
 - [Best_First_Search.ipynb](./Best_First_Search.ipynb)
 - [Best_First_Search.html](./Best_First_Search.html)
-
-## Solution
-
-- [Solution](./Solutions/Best_First_Search.ipynb)
