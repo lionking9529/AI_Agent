@@ -6,7 +6,7 @@
 # Day 1
 
 - [Introduction To AI](./Introduction_To_AI.pdf)
-- [Exercise Overview](./Day1_Exercise_Overview.pdf)
+- [Exercise Overview](./Day1_Exercise.pdf)
 
 # Exercise
 
