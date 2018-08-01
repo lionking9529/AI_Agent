@@ -6,7 +6,7 @@
 # Day 2
 
 - [Search](./Search.pdf)
-- [Search Exercise Overview](./Search_Exercise.pdf)
+- [Search Exercise Overview](./Day2_Exercise.pdf)
 
 # Exercise
 
