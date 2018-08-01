@@ -29,4 +29,4 @@
 
 ## Solution
 
-- [Solution](./Solutions/Depth_First_Search.ipynb)
+- [Solution](./Solutions/Depth_First_Search_Solution.ipynb)

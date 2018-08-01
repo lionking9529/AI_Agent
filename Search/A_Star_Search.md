@@ -25,4 +25,4 @@ A-Star Search (**에이스타 탐색**)
 
 ## Solution
 
-- [Solution](./Solutions/A_Star_Search.ipynb)
+- [Solution](./Solutions/A_Star_Search_Solution.ipynb)

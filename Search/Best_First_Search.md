@@ -25,4 +25,4 @@
 
 ## Solution
 
-- [Solution](./Solutions/Best_First_Search.ipynb)
+- [Solution](./Solutions/Best_First_Search_Solution.ipynb)

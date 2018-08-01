@@ -29,4 +29,4 @@
 
 ## Solution
 
-- [Solution](./Solutions/Breadth_First_Search.ipynb)
+- [Solution](./Solutions/Breadth_First_Search_Solution.ipynb)
